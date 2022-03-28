@@ -62,14 +62,16 @@ hr {
 }
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  bottom: 350px;
+  left: 150px;
+
 }
 .top-cloud{
   position: absolute;
-  top: 50px;
-  right: 800px;
+  right: 150px;
+  bottom: 625px;
 }
+
 
 .skill-row {
   width: 50%;
